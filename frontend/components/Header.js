@@ -15,9 +15,9 @@ export default function Header() {
       className="sticky top-0 z-40 backdrop-blur bg-zenko-bg/70 border-b border-zenko-border"
     >
       <div className="mx-auto max-w-7xl px-4 md:px-8 h-16 flex items-center justify-between">
-        <a href="#" className="flex items-center gap-2">
-          <Logo />
-          <span className="font-extrabold tracking-wider">ZENKO</span>
+        <a href="#" className="flex items-center gap-2.5 group">
+          <Logo className="h-9 w-9 group-hover:scale-110 transition" />
+          <span className="font-extrabold tracking-[0.2em] text-lg">ZENKO</span>
         </a>
 
         <nav className="hidden md:flex items-center gap-8">

@@ -63,12 +63,12 @@ export const PILLARS = [
 ];
 
 export const TOKENOMICS = [
-  { label: "Community", value: 60, color: "#7c5cff" },
-  { label: "Liquidity", value: 10, color: "#22d3ee" },
-  { label: "Marketing", value: 10, color: "#34d399" },
-  { label: "Team", value: 10, color: "#f59e0b" },
-  { label: "Treasury", value: 5, color: "#ef4444" },
-  { label: "Other", value: 5, color: "#a78bfa" },
+  { label: "Community", value: 60, color: "#00ffa3" },
+  { label: "Liquidity", value: 10, color: "#2dd4a7" },
+  { label: "Marketing", value: 10, color: "#5eead4" },
+  { label: "Team", value: 10, color: "#10b981" },
+  { label: "Treasury", value: 5, color: "#0fae7e" },
+  { label: "Other", value: 5, color: "#7df9c8" },
 ];
 
 export const ROADMAP = [
